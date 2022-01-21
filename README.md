@@ -1,4 +1,4 @@
-# java-web-mill-forked-mongo-repo-lambda-JAdventure
+# java-web-mill-spring-forked-mongo-repo-lambda-JAdventure
 
 ## Description
 A POC for REST web service using mongodb.
@@ -11,6 +11,7 @@ with a query using lambda collectors.
 - java
 - mill
   - mongo connector
+  - spring
 - mongo
 
 ## Docker stack
